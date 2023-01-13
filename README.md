@@ -1,3 +1,3 @@
-# senai-versoes-colaboracoes
-teste
-testando
+
+
+lembrei do comando: git status
